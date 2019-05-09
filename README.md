@@ -1,4 +1,4 @@
-This repository contains my experiments on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset curated by [Zalando Research](https://research.zalando.com/). The experiments include the standard image classification task. I experimented with *different normalization statistics*, *model ensembling* and more. I downloaded the data from Analytics Vidhya's DataHack portal: https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/ just because the structure of the files were convenient for me. 
+This repository contains my experiments on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset curated by [Zalando Research](https://research.zalando.com/). The experiments include the standard image classification task. I experimented with *different normalization statistics*, *model ensembling* and more. I downloaded the data from Analytics Vidhya's DataHack portal: https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/ just because the structure of the files were convenient for me to get started. 
 
 ### From the official GitHub repo of Fashion MNIST:
 
