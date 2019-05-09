@@ -7,7 +7,7 @@ This repository contains my experiments on the [Fashion MNIST](https://github.co
 
 Here's an example how the data looks (*each class takes three-rows*):
 
-![](https://github.com/sayakpaul/fashion-mnist/blob/master/doc/img/fashion-mnist-sprite.png?raw=true)
+![](https://github.com/zalandoresearch/fashion-mnist/raw/master/doc/img/fashion-mnist-sprite.png)
 
 ### Why we made Fashion-MNIST
 
